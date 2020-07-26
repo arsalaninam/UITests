@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Classes">
+    <test name="Execute All Test Cases">
+        <classes>
+            <class name="com.sogeti.testcase.HomePageTest"/>
+            <class name="com.sogeti.testcase.AutomationPageTest"/>
+        </classes>
+    </test>
+</suite>
